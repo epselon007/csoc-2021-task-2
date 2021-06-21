@@ -46,4 +46,4 @@ You'll have a week to complete this task. Hence, the deadline of this task is **
 <!-- Add you name in below list as -->
 <!-- - Your Name - [Repo Name](Link) [APK](APK Link) -->
 <!-- - Sanyu Daver - [Tic Tac](https://github.com/sanyud/TicTac) [APK](https://github.com/king-11/Vue-Birthday/blob/master/public/favicon.ico) -->
-<!-- - Rajat Vishwakarma - [ToDo](https://github.com/epselon007/ToDo) [APK](https://docs.google.com/uc?export=download&id=1RJp7j49Q2w-DXXbCNIOpSfD17RR2CVXA) -->
+<!-- - Rajat Vishwakarma - [Todo](https://github.com/epselon007/ToDo) [APK](https://docs.google.com/uc?export=download&id=1RJp7j49Q2w-DXXbCNIOpSfD17RR2CVXA) -->
